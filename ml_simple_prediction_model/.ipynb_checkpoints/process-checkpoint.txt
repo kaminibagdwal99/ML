@@ -1,0 +1,7 @@
+1. import the data
+2.Clean the Data
+3. Split the data into training/ test ser
+4.create a model
+5. train the model
+6.make prediction
+7. evaluate n improve
